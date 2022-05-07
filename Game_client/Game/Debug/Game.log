@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\COP290\Game_client\Game\Src\Menus\StartMenu.h(249,14): warning C4018: '<': signed/unsigned mismatch
+C:\COP290\Game_client\Game\Src\main.cpp(113,19): warning C4018: '<': signed/unsigned mismatch
+  Game.vcxproj -> C:\COP290\Game_client\Debug\Game.exe

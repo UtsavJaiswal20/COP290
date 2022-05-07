@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\cop290\test_client\test_client\main.cpp(9): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Test_client.vcxproj -> C:\COP290\Test_client\Debug\Test_client.exe
